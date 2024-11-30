@@ -107,6 +107,6 @@ This project demonstrates the analysis of store sales data, including forecastin
 
 For questions, feedback, or collaboration opportunities, please feel free to reach out:
 
-- **Email**: [dilip@example.com](mailto:choudharydilip203@gmail.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/dilip-choudhary1)
+- **Email**: [choudharydilip203@gmail.com](mailto:choudharydilip203@gmail.com)
+- **GitHub**: [GitHub Profile](https://github.com/dilip-choudhary1)
 
